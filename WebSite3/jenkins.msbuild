@@ -1,13 +1,13 @@
 <Project 
 
-xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
 
     <Target Name="PrecompileWeb">
         <AspNetCompiler
 
             VirtualPath="TestWebSite"
 
-            PhysicalPath="C:\Users\manish\Documents\Visual Studio 2013\WebSites\WebSite3"
+            PhysicalPath="C:\Users\manish\Documents\Visual Studio 2013\WebSites\jenkinswebsite\websitejenkins\WebSite3"
 
             TargetPath="C:\Users\manish\Documents\Visual Studio 2013\WebSites\final"
 
